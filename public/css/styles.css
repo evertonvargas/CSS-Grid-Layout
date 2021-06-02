@@ -211,7 +211,7 @@ main p {
 .card {
   width: 80px;
   background: var(--color-white);
-  margin: 10px 30px 5px 0;
+  margin: 10px 30px 10px 0;
   display: flex;
   flex-direction: column;
   border-radius: 5px;
@@ -223,7 +223,7 @@ main p {
   background: var(--linear-purple);
   color: var(--color-bg-primary);
   width: 100%;
-  padding: 7px 0;
+  padding: 3px 0;
   font-size: 3em;
   border-radius: 5px 5px 0 0;
 }
@@ -253,7 +253,7 @@ main p {
     justify-items: center;
   }
 
-  .ad .ad-item{
+  .ad div{
     max-width: 250px;
   }
 }
