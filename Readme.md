@@ -1,11 +1,9 @@
-### Site com CSS Grid
+## :file_folder: Site com CSS Grid
+O curso e a construção do site me permitiram aprender como aplicar Grid nos sites e trabalhar com responsividade.
 
 >Produzido no curso da [Origamid](https://www.origamid.com/) de CSS GRID 
 
-O curso e a construção do site me permitiram aprender como aplicar Grid nos sites e trabalhar com responsividade.
-
-Aguarde o carregamento da foto para visualizar o resultado...
-
+## Resultado final:
 <div align="center" width=960px; >
   <img src="public/images/screen.png" />
 </div>
